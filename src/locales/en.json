@@ -1,7 +1,7 @@
 {
   "option": {
     "home": "home",
-    "about": "about",
+    "about": "about"
   },
   "home": {
     "title": "Home",
@@ -15,5 +15,9 @@
 "title": "page not found",
     "content": "page not found, the path available-path is not available",
     "go-home": "go home"
+  },
+  "footer": {
+    "title": "footer",
+    "content": "footer content"
   }
 }
