@@ -12,3 +12,6 @@ const {t} = useI18n();
 </section>
 </template>
 
+<style scoped>
+
+</style>
