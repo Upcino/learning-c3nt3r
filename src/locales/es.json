@@ -1,0 +1,19 @@
+{
+  "option": {
+    "home": "Inicion",
+    "about": "about"
+  },
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido a AQME lersnin guide"
+  },
+  "about": {
+    "title": "Acerda de",
+    "content": "es una plataform de negovions de educacion"
+  },
+  "page-not-found": {
+    "title": "pagina no encontrada",
+    "content": "pagina no encontrada the path available-path no esta disponible",
+    "go-home": "ir al inicio"
+  }
+}

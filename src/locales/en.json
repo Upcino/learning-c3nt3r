@@ -1,0 +1,19 @@
+{
+  "option": {
+    "home": "home",
+    "about": "about",
+  },
+  "home": {
+    "title": "Home",
+    "content": "Welcome to my website!"
+  },
+  "about" : {
+    "title": "About us",
+    "content": "This is about us!"
+  },
+  "page-not-found": {
+"title": "page not found",
+    "content": "page not found, the path available-path is not available",
+    "go-home": "go home"
+  }
+}
